@@ -1,0 +1,47 @@
+{
+  "order": {
+    "order_id": "order id",
+    "store_id": "store id",
+    "staff_id": "staff id",
+    "items_name": "name of items",
+    "quantity": "quantity",
+    "price": "price",
+    "total_cost": "total amount",
+    "date": "date ",
+    "time": "time",
+    "cust_name": "customer name",
+    "cust_phone": "customer phone number",
+    "status": "order status"
+  },
+  "inven": {
+    "store_id": "store id",
+    "item_id": "item id",
+    "item_name": "name of item",
+    "quantity": "quantity",
+    "price": "price",
+    "type": "type",
+    "date": "date inventory added"
+  },
+  "staff": {
+    "staff_id": "employee Id",
+    "staff_name": "employee name",
+    "email": "email",
+    "password": "password",
+    "type": "User Type",
+    "tfn": "TFN",
+    "street": "Street Address",
+    "city": "City",
+    "state": "State",
+    "postal": "Postal",
+    "phone": "Contact number",
+    "store_id": "store id"
+  },
+  "store": {
+    "store_id": "store id",
+    "street": "Street Address",
+    "city": "City",
+    "suburb": "Suburb",
+    "postal": "Postal",
+    "phone": "Contact number"
+  }
+}
